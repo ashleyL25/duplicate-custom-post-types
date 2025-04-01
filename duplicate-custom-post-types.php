@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Duplicate Custom Post Types
-Plugin URI: https://github.com/ashleyL25/duplicate-custom-post-types.git
+Plugin URI: https://github.com/ashleyL25/duplicate-custom-post-types
 Description: A description of your add-on plugin.
 Version: 1.0.0
 Author: BlueFrog DM 
