@@ -3,7 +3,7 @@
 Plugin Name: Duplicate Custom Post Types
 Plugin URI: https://github.com/ashleyL25/duplicate-custom-post-types
 Description: A description of your add-on plugin.
-Version: 1.1.0
+Version: 1.2.0
 Author: BlueFrog DM 
 Author URI: https://www.bluefrogdm.com/
 GitHub Plugin URI: ashleyL25/duplicate-custom-post-types
@@ -163,7 +163,7 @@ class Duplicate_Custom_Post_Types {
     }
     
     /**
-     * Duplicate taxonomies (categories, tags, etc.)
+     * Duplicate taxonomies (categories, tags, etc.) added note
      */
     private function duplicate_taxonomies($old_post_id, $new_post_id, $post_type) {
         // Get all taxonomies for the post type
